@@ -1,0 +1,52 @@
+[FileDialogSize]
+2 screens: Height=600
+2 screens: Width=884
+
+[KFileDialog Settings]
+Recent Files[$e]=Default - 3.layout.latte,file:///yedek/Linux/Latte-dock/Default - 3.layout.latte
+Recent URLs[$e]=file:///yedek/Linux/Latte-dock/,file:///yedek/
+detailViewIconSize=16
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,750
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=49,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=2
+sortOrder=0
+windowSize=980,909
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=HDMI-0:::0,0 1920x1080
+11=eDP-1-1:::0,0 1920x1080
+12=HDMI-1-0:::1920,0 1920x1080
+13=eDP-1:::0,0 1920x1080
+14=HDMI-A-1:::1536,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=true
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+inAdvancedModeForEditSettings=true
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Default - 3
+userConfiguredAutostart=true
+version=2
