@@ -57,13 +57,15 @@ function fish_prompt
 
     if functions -q fish_is_root_user; and fish_is_root_user
         set_color red
+        set at 💀
     else
         set_color white
+        set at 😏
     end
 
     echo -n $USER
     set_color white
-    echo -n 😏
+    echo -n $at
 
     if test -z "$SSH_CLIENT"
         set_color white
