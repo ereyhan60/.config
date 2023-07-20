@@ -23,7 +23,7 @@ function fish_prompt
     set -l retc red
     test $status = 0; and set retc white
 
-    set icon '💀'
+    set icon '🤡'
     test $status = 0; and set icon '🤠'
         
     set -q __fish_git_prompt_showupstream
