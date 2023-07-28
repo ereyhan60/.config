@@ -1,0 +1,21 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10118133126da000169049798000000010200004
+clientId2=10118133126da000169049798000000010200007
+count=2
+program1=/usr/bin/optimus-manager-qt
+program2=/usr/bin/firewall-applet
+restartCommand1=/usr/bin/optimus-manager-qt,-session,10118133126da000169049798000000010200004_1690511739_657010
+restartCommand2=/usr/bin/firewall-applet,-session,10118133126da000169049798000000010200007_1690511739_657028,-name,firewall-applet
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=emre
+userId2=emre
+
+[SubSession: a81aa54b-08ae-4708-b1f4-6e020aa2f0ba]
+count=0

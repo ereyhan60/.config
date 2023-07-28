@@ -1,0 +1,10 @@
+[General]
+FreeFloating=true
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+bookmarksEnabled=false
+browserhistoryEnabled=false
+recentdocumentsEnabled=false

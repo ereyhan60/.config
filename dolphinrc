@@ -1,0 +1,44 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[DetailsMode]
+HighlightEntireRow=false
+PreviewSize=32
+SidePadding=0
+
+[ExtractDialog]
+1920x1080 screen: Height=548
+1920x1080 screen: Width=1255
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2023,5,10,18,44,36.747
+
+[IconsMode]
+TextWidthIndex=0
+
+[InformationPanel]
+previewsAutoPlay=true
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=unrpa,file:///bin/unrpa
+Recent URLs[$e]=file:///bin/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=408
+1920x1080 screen: Width=391
+2 screens: Height=591
+2 screens: Width=420
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail

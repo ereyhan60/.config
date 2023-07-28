@@ -29,7 +29,7 @@ windowSize=980,909
 outlineWidth=1
 
 [ScreenConnectors]
-10=HDMI-0:::1920,0 1920x1080
+10=HDMI-0:::0,0 1920x1080
 11=eDP-1-1:::0,0 1920x1080
 12=HDMI-1-0:::0,0 1920x1080
 13=eDP-1:::0,0 1920x1080

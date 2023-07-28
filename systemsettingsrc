@@ -1,0 +1,37 @@
+[KFileDialog Settings]
+Recent Files[$e]=wg-client.conf,file:///bin/unrpa,file:///yedek/VMs/Shared/VPN/oracle-172.27.100.3.ovpn,file:///yedek/VMs/Shared/VPN/oracle-172.27.100.2.ovpn,file:$HOME/Downloads/wg-vpn/wg-client.conf
+Recent URLs[$e]=file:$HOME/Downloads/wg-vpn/,file:///yedek/VMs/Shared/VPN/,file:///yedek/VMs/Shared/,file:$HOME/,file:///bin/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=452
+1920x1080 screen: Width=425
+
+[MainWindow]
+1024x768 screen: Height=691
+1024x768 screen: Width=922
+1024x768 screen: XPosition=98
+1024x768 screen: YPosition=73
+1280x720 screen: Height=628
+1280x720 screen: Width=1020
+1280x720 screen: XPosition=213
+1280x720 screen: YPosition=88
+1920x1080 screen: Height=704
+1920x1080 screen: Width=1280
+1920x1080 screen: XPosition=320
+1920x1080 screen: YPosition=211
+2 screens: Height=700
+2 screens: Width=1193
+2 screens: XPosition=2283
+2 screens: YPosition=213
+HDMI-0=HDMI-0
+HDMI-0 eDP-1-1=HDMI-0
+HDMI-1-0=HDMI-1-0
+HDMI-1-0 eDP=HDMI-1-0
+HDMI-1-0 eDP-1=eDP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQAAAALAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP=eDP
+eDP-1=eDP-1
+eDP-1-1=eDP-1-1

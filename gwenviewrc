@@ -1,0 +1,69 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=1
+CropRatioWidth=1
+
+[General]
+LastUsedVersion=210800
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=595,169
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=file:///windows/12. Sınıf/emre/_SIN3573_cropped.jpg,file:///windows/12. Sınıf/emre/_SIN3573_cropped.jpg
+Recent URLs[$e]=file:///windows/12. Sınıf/emre/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=408
+1920x1080 screen: Width=334
+
+[MainWindow]
+1920x1080 screen: Height=873
+1920x1080 screen: Width=1272
+1920x1080 screen: XPosition=324
+1920x1080 screen: YPosition=127
+2 screens: Height=980
+2 screens: Width=1136
+2 screens: XPosition=2312
+2 screens: YPosition=73
+HDMI-0=HDMI-0
+HDMI-0 eDP-1-1=HDMI-0
+HDMI-1-0=HDMI-1-0
+HDMI-1-0 eDP-1=HDMI-1-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABPgAAAM0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=/run/user/1000/ef468fa2_d651_4ab9_b39f_47d86e46ee35/storage/emulated/0/Pictures/IMG_20230127_172429_090.jpg
+File10[$e]=$HOME/Desktop/ef2babb907de3fbaca74af8a098acebf.jpg
+File2[$e]=/run/user/1000/ef468fa2_d651_4ab9_b39f_47d86e46ee35/storage/emulated/0/Pictures/Instagram/IMG_20230127_172429_090.jpg
+File3[$e]=/run/user/1000/ef468fa2_d651_4ab9_b39f_47d86e46ee35/storage/emulated/0/Pictures/Instagram/IMG_20230701_152539_412.jpg
+File4[$e]=$HOME/Desktop/IMG_20230701_152539_412~2.jpg
+File5[$e]=$HOME/Desktop/out.jpg
+File6[$e]=$HOME/Pictures/Screenshot_20230614_194330.png
+File7[$e]=$HOME/Pictures/Screenshot_20230614_194350.png
+File8[$e]=$HOME/Pictures/Screenshot_20230614_194408.png
+File9[$e]=$HOME/Pictures/Screenshots/smirk-mobile.png
+Name1[$e]=IMG_20230127_172429_090.jpg
+Name10[$e]=ef2babb907de3fbaca74af8a098acebf.jpg
+Name2[$e]=IMG_20230127_172429_090.jpg
+Name3[$e]=IMG_20230701_152539_412.jpg
+Name4[$e]=IMG_20230701_152539_412~2.jpg
+Name5[$e]=out.jpg
+Name6[$e]=Screenshot_20230614_194330.png
+Name7[$e]=Screenshot_20230614_194350.png
+Name8[$e]=Screenshot_20230614_194408.png
+Name9[$e]=smirk-mobile.png
+
+[SideBar]
+InformationSplitterSizes=218,249
+SideBarSplitterSizes=205,740

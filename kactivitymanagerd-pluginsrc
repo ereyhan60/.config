@@ -1,0 +1,5 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+allowed-applications=/usr/bin/code-oss,code-oss,electron,libreoffice-writer,okular,okularApplication_pdf,org.kde.krunner,org.kde.libtaskmanager,org.kde.plasma.kicker,org.kde.spectacle,org.rnd2.cpupower_gui,secondary,soffice.bin,systemsettings
+blocked-applications=/usr/bin/plasmashell,/usr/bin/spectacle,/usr/lib/firedragon/firedragon,/usr/lib/firefox/firefox,/usr/lib/xdg-desktop-portal-kde,ark,dolphin,firedragon,gapplication,gwenview,kate,kwrite,latte-dock,lattedock,libreoffice,org.freedesktop.impl.portal.desktop.kde,org.kde.ark,org.kde.dolphin,org.kde.gwenview,org.kde.kate,org.kde.kwrite,org.kde.plasmashell,org.kde.systemsettings
+off-the-record-activities=,a81aa54b-08ae-4708-b1f4-6e020aa2f0ba
+what-to-remember=1

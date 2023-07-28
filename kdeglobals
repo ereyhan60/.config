@@ -124,10 +124,10 @@ TerminalService=kitty.desktop
 Theme=breeze-dark
 
 [KDE]
+DoubleClickInterval=800ms
 LookAndFeelPackage=com.github.yeyushengfan258.ArcMidnight-dark
 SingleClick=false
 widgetStyle=kvantum-dark
-DoubleClickInterval=800ms
 
 [KFileDialog Settings]
 Allow Expansion=false

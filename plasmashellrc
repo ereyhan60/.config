@@ -1,0 +1,45 @@
+[FileDialogSize]
+2 screens: Height=600
+2 screens: Width=980
+
+[KFileDialog Settings]
+Recent Files[$e]=flatpak,file:$HOME/Desktop/abc,file:///windows/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/Assets/VisualStudio.150x150.contrast-black_scale-80.png,file:///windows/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/Assets/VisualStudio.70x70.contrast-black_scale-180.png,file:///windows/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/Assets/VisualStudio.70x70.contrast-black_scale-140.png,file:///windows/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/Assets/VisualStudio.70x70.contrast-black_scale-80.png,file:$HOME/.local/share/icons/hicolor/70x70/code_70x70.png,file:///bin/flatpak
+Recent URLs[$e]=file:///windows/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/Assets/,file:///bin/,file:$HOME/.local/share/icons/hicolor/70x70/,file:$HOME/,file:$HOME/Desktop/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=452
+1920x1080 screen: Width=425
+2 screens: Height=526
+2 screens: Width=439
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 25][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 47][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 69]
+panelOpacity=0
+panelVisibility=1
+
+[PlasmaViews][Panel 69][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 93][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 95]
+panelVisibility=1
+
+[PlasmaViews][Panel 95][Defaults]
+thickness=44
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

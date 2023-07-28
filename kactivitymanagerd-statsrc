@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-8b950a04-4f0e-48d7-9d9f-7b5616263ff0]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-70-8b950a04-4f0e-48d7-9d9f-7b5616263ff0]
+ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:code-oss.desktop,applications:firedragon.desktop,applications:Counter-Strike Global Offensive.desktop,applications:discord.desktop,applications:com.valvesoftware.Steam.desktop,applications:com.github.wwmm.easyeffects.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-70-global]
+ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:code-oss.desktop,applications:firedragon.desktop,applications:Counter-Strike Global Offensive.desktop,applications:discord.desktop,applications:com.valvesoftware.Steam.desktop,applications:com.github.wwmm.easyeffects.desktop

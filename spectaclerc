@@ -1,0 +1,30 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[Annotations]
+annotationToolType=1
+ellipseStrokeColor=255,0,0
+ellipseStrokeWidth=6
+freehandStrokeWidth=8
+rectangleStrokeColor=0,170,0
+
+[FileDialogSize]
+2 screens: Height=600
+2 screens: Width=980
+
+[General]
+clipboardGroup=PostScreenshotCopyImage
+onLaunchAction=UseLastUsedCapturemode
+rememberLastRectangularRegion=Never
+
+[GuiConfig]
+captureMode=0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshots/csgo_mp7.png,file:$HOME/Pictures/Screenshots/test.png,file:$HOME/Pictures/Screenshots/smirk-mobile.png,file:$HOME/Documents/Okul/Biçimsel Diller ve Otomatlar/Screenshot_20230609_174100.png,file:$HOME/Pictures/Screenshots/test/grey.png,file:$HOME/Pictures/Screenshots/test/black.png,file:$HOME/Pictures/Screenshots/test/white.png,file:$HOME/Pictures/Screenshots/Screenshot_20230513_195033.jpg
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/,file:$HOME/Pictures/Screenshots/,file:$HOME/Pictures/Screenshots/test/,file:$HOME/Pictures/,file:$HOME/Documents/Okul/Biçimsel Diller ve Otomatlar/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/ndvour/Pictures/Screenshots/test.png
+lastSaveLocation=file:///home/ndvour/Pictures/Screenshots/test.png

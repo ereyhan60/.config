@@ -1,0 +1,27 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Minecraft Fullscreen
+fullscreen=true
+fullscreenrule=3
+types=1
+wmclass=Minecraft 1.
+wmclassmatch=2
+
+[459cf85a-0449-440d-ade2-8b97f23fc02a]
+Description=New window settings
+noborderrule=2
+types=1
+
+[General]
+count=1
+rules=1
+
+[f52cf414-aea3-4df3-97ab-109abfc1b606]
+Description=Minecraft Fullscreen
+fullscreen=true
+fullscreenrule=3
+types=1
+wmclass=Minecraft 1.
+wmclassmatch=2

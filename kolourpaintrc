@@ -1,0 +1,47 @@
+[General Settings]
+First Time=false
+Last Document Size=1792,877
+Open Images in the Same Window=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/abc.png,file:$HOME/Desktop/abc.png
+Recent URLs[$e]=file:$HOME/Desktop/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1080 screen: Height=1058
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=22
+HDMI-0=HDMI-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAciAAAAXvwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAF4AAAciAAACAgD///8AAAciAAADbwAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/abc.png
+Name1[$e]=abc.png
+
+[Tool Settings]
+Last Used Tool=8
+Tool Widget Brush Col=0
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

@@ -1,0 +1,30 @@
+[General Settings]
+Autodrop=false
+Cardname=svg-standard
+
+[KgTheme]
+Theme=themes/greenblaze.desktop
+
+[MainWindow]
+1920x1080 screen: Height=1025
+1920x1080 screen: Width=866
+1920x1080 screen: XPosition=1050
+1920x1080 screen: YPosition=51
+2 screens: Height=1025
+2 screens: Width=881
+2 screens: XPosition=2955
+2 screens: YPosition=51
+HDMI-0=HDMI-0
+HDMI-0 eDP-1-1=HDMI-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA2IAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Scores]
+loosestreak0=1
+maxloosestreak0=4
+maxwinstreak0=29
+minmoves0=108
+total0=473
+winstreak0=0
+won0=400
