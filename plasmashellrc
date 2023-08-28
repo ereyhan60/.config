@@ -16,6 +16,9 @@ detailViewIconSize=16
 [PlasmaTransientsConfig]
 PreloadWeight=0
 
+[PlasmaViews][Panel 117][Defaults]
+thickness=20
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
@@ -31,6 +34,9 @@ panelVisibility=1
 
 [PlasmaViews][Panel 69][Defaults]
 thickness=44
+
+[PlasmaViews][Panel 93]
+floating=1
 
 [PlasmaViews][Panel 93][Defaults]
 thickness=27

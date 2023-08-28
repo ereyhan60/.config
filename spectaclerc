@@ -5,8 +5,8 @@ update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_remember
 annotationToolType=1
 ellipseStrokeColor=255,0,0
 ellipseStrokeWidth=6
-freehandStrokeWidth=8
-rectangleStrokeColor=0,170,0
+rectangleStrokeColor=255,0,0
+rectangleStrokeWidth=4
 
 [FileDialogSize]
 2 screens: Height=600

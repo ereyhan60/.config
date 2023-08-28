@@ -126,6 +126,7 @@ Theme=breeze-dark
 [KDE]
 DoubleClickInterval=800ms
 LookAndFeelPackage=com.github.yeyushengfan258.ArcMidnight-dark
+ShowDeleteCommand=false
 SingleClick=false
 widgetStyle=kvantum-dark
 

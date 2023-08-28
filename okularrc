@@ -24,7 +24,7 @@ eDP-1-1=eDP-1-1
 
 [Recent Files]
 File1[$e]=$HOME/Desktop/group35-reprt4-ceng.pdf
-File10[$e]=$HOME/Desktop/TODO.md
+File10[$e]=$HOME/Desktop/endpoints.md
 File2[$e]=$HOME/Desktop/Numeric Analysis/ceng_206_final_191180073.pdf
 File3[$e]=$HOME/Documents/Okul/Numeric Analysis/ceng_206_final_191180073.pdf
 File4[$e]=$HOME/Desktop/Yazılım Mühendisliği/bm314_f1_2021_bahar.pdf
@@ -32,9 +32,9 @@ File5[$e]=/windows/Users/Emre/Desktop/staj/staj2018-sablon.pdf
 File6[$e]=$HOME/Desktop/zorunlu-staj-formu.pdf
 File7[$e]=$HOME/Desktop/staj/staj 1/staj2018-sablon.pdf
 File8[$e]=$HOME/Desktop/transkript.pdf
-File9[$e]=$HOME/Desktop/endpoints.md
+File9[$e]=$HOME/Desktop/TODO.md
 Name1[$e]=group35-reprt4-ceng.pdf
-Name10[$e]=TODO.md
+Name10[$e]=endpoints.md
 Name2[$e]=ceng_206_final_191180073.pdf
 Name3[$e]=ceng_206_final_191180073.pdf
 Name4[$e]=bm314_f1_2021_bahar.pdf
@@ -42,4 +42,4 @@ Name5[$e]=staj2018-sablon.pdf
 Name6[$e]=zorunlu-staj-formu.pdf
 Name7[$e]=staj2018-sablon.pdf
 Name8[$e]=transkript.pdf
-Name9[$e]=endpoints.md
+Name9[$e]=TODO.md

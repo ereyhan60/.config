@@ -8,23 +8,26 @@ Theme=themes/greenblaze.desktop
 [MainWindow]
 1920x1080 screen: Height=1025
 1920x1080 screen: Width=866
-1920x1080 screen: XPosition=1050
+1920x1080 screen: XPosition=527
 1920x1080 screen: YPosition=51
 2 screens: Height=1025
-2 screens: Width=881
-2 screens: XPosition=2955
+2 screens: Width=866
+2 screens: XPosition=2447
 2 screens: YPosition=51
 HDMI-0=HDMI-0
 HDMI-0 eDP-1-1=HDMI-0
+HDMI-1-0=HDMI-1-0
+HDMI-1-0 eDP-1=HDMI-1-0
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAA2IAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+eDP-1=eDP-1
 
 [Scores]
-loosestreak0=1
+loosestreak0=0
 maxloosestreak0=4
 maxwinstreak0=29
 minmoves0=108
-total0=473
-winstreak0=0
-won0=400
+total0=535
+winstreak0=22
+won0=453
