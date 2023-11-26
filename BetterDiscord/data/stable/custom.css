@@ -1,0 +1,27 @@
+/*
+@import url(https://discordstyles.github.io/DarkMatter/DarkMatter.theme.css);
+*/
+/*
+@import url(https://dagcord.github.io/Wildberry/wildberry.css);
+*/
+
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+:root {
+    
+    --app-bg: radial-gradient(#6d31b1,#1d0b3b);
+    /*
+    --button-color: #6aead7;
+    */
+    
+    --accent-hue: 171;
+    --accent-saturation: 75.3%;
+    --accent-lightness: 16.7%;
+    
+    /*
+    --accent-hue: 268;
+    --accent-saturation: 56.6%;
+    --accent-lightness: 44.3%;
+    */
+    --accent-opacity: 0.8;
+    --accent-text-color: #9ff;
+}
